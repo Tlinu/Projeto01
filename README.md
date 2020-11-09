@@ -1,4 +1,5 @@
 # Projeto01
- Site feito somente com HTML e CSS
+Criando uma Landing page
 
- Esse projeto foi feito para estudos, tentanto somente utilizar HTML e CSS.
+Esse projeto é apenas para estudos de Criação de uma Landing Page,
+tentando usar apenas HTML e CSS.
