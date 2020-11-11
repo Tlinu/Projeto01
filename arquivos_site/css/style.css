@@ -51,6 +51,7 @@ header img{
     font-weight: bold;
     color:white;
     font-size: 24px;
+    text-align: center;
 }
 
 .input-container{
@@ -81,5 +82,24 @@ header img{
     border: 1px solid #ccc;
 }
 
-.form input
+.form input[type="submit"]{
+    width: 280px;
+    height: 56px;
+    background-color:  #363a6d;
+    color: white;
+    font-size: 25px;
+    display: inline-block;
+    border-top: 0;
+    border-right: 0;
+    border-left: 0;
+    border-bottom: 5px solid #6495ED;
+    cursor: pointer;
+}
+.form .submit-container{
+    text-align: center;
+}
+
+.form .submit-container input[type="submit"]:hover{
+    background-color: #6495ED;
+}
 
